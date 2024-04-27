@@ -10,9 +10,7 @@ export const Bio = {
   resume:
     "https://drive.google.com/file/d/16vpu9PAmjtQiDe1uCuMGI3reJwd7Lv2A/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/diptirs01/",
-  twitter: "https://twitter.com/RishavChanda",
-  insta: "https://www.instagram.com/rishav_chanda/",
-  facebook: "https://www.facebook.com/rishav.chanda.165/",
+  email:"diptisanap1999@gmail.com"
 };
 
 export const skills = [

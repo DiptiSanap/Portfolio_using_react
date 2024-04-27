@@ -250,41 +250,37 @@ export const education = [
 export const projects = [
   {
     id: 9,
-    title: "Trackify",
+    title: "AI Student Assistant",
     date: "Jun 2023 - Jul 2023",
     description:
-      "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
+    "Addressing the challenge faced by college-level students in optimizing their job applications, this project aims to develop an AI based solution utilizing Generative AI. Enhances student productivity with features such as 'ATS', 'Resume Analyzer', and 'Chat with PDF'",
     image:
-      "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
+      "https://epe.brightspotcdn.com/dims4/default/0495656/2147483647/strip/true/crop/7063x4793+52+0/resize/840x570!/quality/90/?url=https%3A%2F%2Fepe-brightspot.s3.us-east-1.amazonaws.com%2Fcb%2Fcd%2Ff8213ccb4203abdae3aad13a1eef%2Fai-gpt-teacher-08162022-966654886-949652688.jpg",
     tags: [
-      "Docker",
-      "AWS",
-      "DuckDNS",
-      "Eslint",
-      "Husky",
-      "CI/CD",
-      "React Js",
-      "MongoDb",
-      "Node Js",
-      "Express Js",
-      "Redux",
+      "Python",
+      "Google Gemini",
+      "Generative AI",
+      "Streamlit",
+      "SqlLite",
+      "Langchain",
+      "NLP",
     ],
     category: "web app",
-    github: "https://github.com/rishavchanda/Trackify",
-    webapp: "https://trackify.duckdns.org",
+    github: "https://github.com/DiptiSanap/GenAI_project_Student_assistant",
+    webapp: "https://genaiassistant.streamlit.app/",
   },
   {
     id: 0,
-    title: "Podstream",
+    title: "DermAI Health App",
     date: "Apr 2023 - May 2023",
     description:
-      "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
+    "DermAI Health App is a groundbreaking Streamlit app leveraging the power of AI to swiftly identify various skin diseases with just the upload of an image depicting the affected area. By simply uploading the image and clicking on the 'Proceed to Detection' button, you can swiftly obtain accurate diagnoses. The app not only detects the disease but also furnishes comprehensive information including symptoms, precautions, and available treatments",
     image:
-      "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
-    tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
+      "https://www.dermengine.com/hs-fs/hubfs/DE%20Blog%20CTA%20Articles/DermEngine%20Evolution%20Tracker%20Doctor.png?width=767&height=682&name=DermEngine%20Evolution%20Tracker%20Doctor.png",
+    tags: ["Google API Key", "Python", "Streamlit", "Deep Learning", "Generative Models"],
     category: "web app",
-    github: "https://github.com/rishavchanda/Podstream",
-    webapp: "https://podstream.netlify.app/",
+    github: "https://github.com/DiptiSanap/Gemini-DermAI-project",
+    webapp: "https://gemini-dermai-project-bbdvlmwq29b8okmjhxchfh.streamlit.app/",
     member: [
       {
         name: "Rishav Chanda",
@@ -322,16 +318,16 @@ export const projects = [
   },
   {
     id: 2,
-    title: "Brain Tumor Detection",
+    title: "Image Classification",
     date: "Jan 2023 - Mar 2023",
     description:
-      "Preprocessed and augmented the dataset to improve model accuracy, trained the model, created API using model and Python, and used React web app for the project's front end. Achievements: Achieved an accuracy of 99.2% to accurately detect brain tumors from medical images.",
+      "Preprocessed and augmented the dataset to improve model accuracy, trained the model. Achievements: Achieved an accuracy of 87% to accurately classify images.",
     image:
-      "https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png",
-    tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
+      "https://miro.medium.com/v2/da:true/resize:fit:1200/0*m8Pb_M3KeGhFWQFf",
+    tags: ["Python", "Keras", "TensorFlow", "CIFAR10", "Pickle"],
     category: "machine learning",
-    github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
-    webapp: "https://brain-tumor.netlify.app/",
+    github: "https://github.com/DiptiSanap/CIFAR10-image-classification-CNN",
+    webapp: "https://github.com/DiptiSanap/CIFAR10-image-classification-CNN",
     member: [
       {
         name: "Rishav Chanda",
@@ -362,16 +358,16 @@ export const projects = [
   },
   {
     id: 10,
-    title: "Job Finding App",
+    title: "Quiz App",
     date: "Jun 2023 - Jul 2023",
     description:
-      "A Job Finding App made with React Native, Axios. Users can search for any job coming from API and apply there.",
+      "A Quiz App made with React, Node Js. Users can attempt the quiz and view the result after submission.",
     image:
-      "https://user-images.githubusercontent.com/64485885/255237090-cf798a2c-1b41-4bb7-b904-b5353a1f08e8.png",
-    tags: ["React Native", "JavaScript", "Axios"],
+      "https://repository-images.githubusercontent.com/404792705/ae07a5f4-fe09-4a1a-a5a0-74e229adca4a",
+    tags: ["React", "Node Js", "Github"],
     category: "android app",
-    github: "https://github.com/rishavchanda/Job-finder-App",
-    webapp: "https://github.com/rishavchanda/Job-finder-App",
+    github: "https://github.com/DiptiSanap/python-quiz-project",
+    webapp: "https://diptisanap.github.io/python-quiz-project/",
   },
   {
     id: 4,
@@ -414,29 +410,29 @@ export const projects = [
   },
   {
     id: 7,
-    title: "Quiz App",
+    title: "Weather app",
     date: "Dec 2020 - Jan 2021",
     description:
-      "A android quiz app made with Java and Firebase. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the quiz categories and can create a new quiz. It has a leaderboard where users can see the top 10 scorers. It has a search bar where users can search for a particular quiz.",
+        "The weather app is a user-friendly application that provides accurate weather information for any location worldwide. With a clean and intuitive interface, users can quickly check the current weather conditions, including temperature, humidity, wind speed, and more. Whether planning for a trip, organizing outdoor activities, or simply staying informed about the weather, this app offers a convenient way to access up-to-date weather data.",
     image:
-      "https://github-production-user-asset-6210df.s3.amazonaws.com/64485885/239726262-c1b061d1-d9d0-42ef-9f1c-0412d14bc4f6.gif",
-    tags: ["Java", "Android Studio", "Firebase", "Google Auth"],
+      "https://private-user-images.githubusercontent.com/107847530/255548146-0bab7620-6278-4636-8395-3328d862630b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQyNDIzMTYsIm5iZiI6MTcxNDI0MjAxNiwicGF0aCI6Ii8xMDc4NDc1MzAvMjU1NTQ4MTQ2LTBiYWI3NjIwLTYyNzgtNDYzNi04Mzk1LTMzMjhkODYyNjMwYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQyN1QxODIwMTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xMjY0YzZlZGYxYjRlNjNkYzY2MzU5ODY2YTE2NzE3OGNhZjJkZmRmMmU5YTViODQ0ZjM4MzQ2Njk3YWIxZGVjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.EQ6XUePjJNJOrFFYtLUnDX992fuh6HlJd4DTpQiwVkc",
+    tags: ["React Js", "API", "Github", "Google Auth"],
     category: "android app",
-    github: "https://github.com/rishavchanda/Quiz-Earn",
-    webapp: "https://github.com/rishavchanda/Quiz-Earn",
+    github: "https://github.com/DiptiSanap/Weather-app-Reactjs-project",
+    webapp: "https://diptisanap.github.io/Weather-app-Reactjs-project",
   },
   {
     id: 8,
-    title: "Face Recognition",
+    title: "Starbucks Brewing Insights",
     date: "Jan 2021",
     description:
-      "A Face recognition python app made with OpenCV. It uses face_recognition library to detect faces. It uses the webcam to detect faces. It also has a search bar to search for a particular face.",
+        "Analyzed Nutritional Content & Beverage Preparations at Starbucks utilizes Python's Pandas, NumPy, and Seaborn to dissect a comprehensive dataset encompassing various beverages and their nutritional profiles.",
     image:
-      "https://camo.githubusercontent.com/a8b3e1ebf26d4c95f75bc6671189a3590eb67eb8332d7c7452492990e731efb9/68747470733a2f2f77617265686f7573652d63616d6f2e696e67726573732e636d68312e707366686f737465642e6f72672f356137383335396561323762643261633232336437656662306639303831306437373930383436312f363837343734373037333361326632663633366336663735363432653637363937343638373536323735373336353732363336663665373436353665373432653633366636643266363137333733363537343733326633383339333633363339333232663332333433343333333033333339333832663333333636363330363533333636333032643331333336333632326433313331363533373264333833323335333832643334363433303633333936333635333136353334333133393265363736393636",
-    tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
+        "https://bsmedia.business-standard.com/_media/bs/img/article/2016-12/07/full/1481130851-7484.jpg",
+    tags: ["Python", "Pandas", "Matplotlib", "Seaborn", "Data Analysis"],
     category: "machine learning",
-    github: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
-    webapp: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
+    github: "https://github.com/DiptiSanap/starbucks_visualisation",
+    webapp: "https://github.com/DiptiSanap/starbucks_visualisation",
   },
 ];
 

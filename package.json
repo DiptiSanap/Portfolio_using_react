@@ -1,7 +1,7 @@
 {
-  "name": "rishav-chanda-portfolio",
+  "name": "dipti-sanap-portfolio",
   "version": "0.1.0",
-  "homepage": "https://rishavchanda.github.io",
+  "homepage": "https://github.com/DiptiSanap/Portfolio_using_react",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",

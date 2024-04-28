@@ -1,7 +1,7 @@
 {
   "name": "dipti-sanap-portfolio",
   "version": "0.1.0",
-  "homepage": "https://DiptiSanap.github.io/Portfolio_using_react",
+  "homepage": "https://DiptiSanap.github.io/Portfolio",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",

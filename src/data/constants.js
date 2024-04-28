@@ -164,7 +164,7 @@ export const experiences = [
     role: "Machine Learning Engineer",
     company: "Hurrey Tech Ventures Pvt. Ltd.",
     date: "Aug 2023 - Present",
-    desc: "Working on AI techniques like ML, DL, NLP and Gen AI.",
+    desc: "As a Machine Learning Engineer, I play a pivotal role in leveraging cutting-edge technologies to drive innovative solutions. With a focus on Python programming, my expertise extends across Machine Learning (ML) and Natural Language Processing (NLP) domains. My passion for exploring the frontiers of AI extends to the fascinating realm of Generative AI. I am deeply curious and highly interested in pushing the boundaries of creativity and innovation through generative models. ",
     skills: [
       "Python",
       "Exploratory Data Analysis",
@@ -249,13 +249,13 @@ export const education = [
 
 export const projects = [
   {
-    id: 9,
+    id: 7,
     title: "AI Student Assistant",
-    date: "Jun 2023 - Jul 2023",
+    date: "Description:",
     description:
     "Addressing the challenge faced by college-level students in optimizing their job applications, this project aims to develop an AI based solution utilizing Generative AI. Enhances student productivity with features such as 'ATS', 'Resume Analyzer', and 'Chat with PDF'",
     image:
-      "https://epe.brightspotcdn.com/dims4/default/0495656/2147483647/strip/true/crop/7063x4793+52+0/resize/840x570!/quality/90/?url=https%3A%2F%2Fepe-brightspot.s3.us-east-1.amazonaws.com%2Fcb%2Fcd%2Ff8213ccb4203abdae3aad13a1eef%2Fai-gpt-teacher-08162022-966654886-949652688.jpg",
+      "https://builtin.com/cdn-cgi/image/f=auto,quality=80,width=752,height=435/https://builtin.com/sites/www.builtin.com/files/styles/byline_image/public/2023-08/ai-assistant_0.jpg",
     tags: [
       "Python",
       "Google Gemini",
@@ -265,175 +265,84 @@ export const projects = [
       "Langchain",
       "NLP",
     ],
-    category: "web app",
+    category: "generative ai",
     github: "https://github.com/DiptiSanap/GenAI_project_Student_assistant",
     webapp: "https://genaiassistant.streamlit.app/",
   },
   {
-    id: 0,
+    id: 6,
     title: "DermAI Health App",
-    date: "Apr 2023 - May 2023",
+    date: "Description:",
     description:
     "DermAI Health App is a groundbreaking Streamlit app leveraging the power of AI to swiftly identify various skin diseases with just the upload of an image depicting the affected area. By simply uploading the image and clicking on the 'Proceed to Detection' button, you can swiftly obtain accurate diagnoses. The app not only detects the disease but also furnishes comprehensive information including symptoms, precautions, and available treatments",
     image:
       "https://www.dermengine.com/hs-fs/hubfs/DE%20Blog%20CTA%20Articles/DermEngine%20Evolution%20Tracker%20Doctor.png?width=767&height=682&name=DermEngine%20Evolution%20Tracker%20Doctor.png",
     tags: ["Google API Key", "Python", "Streamlit", "Deep Learning", "Generative Models"],
-    category: "web app",
+    category: "generative ai",
     github: "https://github.com/DiptiSanap/Gemini-DermAI-project",
     webapp: "https://gemini-dermai-project-bbdvlmwq29b8okmjhxchfh.streamlit.app/",
-    member: [
-      {
-        name: "Rishav Chanda",
-        img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-        linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-        github: "https://github.com/rishavchanda/",
-      },
-      {
-        name: "Upasana Chaudhuri",
-        img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-        linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/upasana0710",
-      },
-    ],
-  },
-  {
-    id: 1,
-    title: "Vexa",
-    date: "Oct 2022 - Present",
-    description:
-      "Designed and developed the Vexa project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.",
-    image:
-      "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
-    tags: [
-      "React Js",
-      "MongoDb",
-      "Node Js",
-      "Express Js",
-      "Redux",
-      "NodeMailer",
-    ],
-    category: "web app",
-    github: "https://github.com/rishavchanda/Project-Management-App",
-    webapp: "https://vexa-app.netlify.app/",
-  },
-  {
-    id: 2,
-    title: "Image Classification",
-    date: "Jan 2023 - Mar 2023",
-    description:
-      "Preprocessed and augmented the dataset to improve model accuracy, trained the model. Achievements: Achieved an accuracy of 87% to accurately classify images.",
-    image:
-      "https://miro.medium.com/v2/da:true/resize:fit:1200/0*m8Pb_M3KeGhFWQFf",
-    tags: ["Python", "Keras", "TensorFlow", "CIFAR10", "Pickle"],
-    category: "machine learning",
-    github: "https://github.com/DiptiSanap/CIFAR10-image-classification-CNN",
-    webapp: "https://github.com/DiptiSanap/CIFAR10-image-classification-CNN",
-    member: [
-      {
-        name: "Rishav Chanda",
-        img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-        linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-        github: "https://github.com/rishavchanda/",
-      },
-      {
-        name: "Upasana Chaudhuri",
-        img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-        linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/upasana0710",
-      },
-    ],
-  },
-  {
-    id: 3,
-    title: "Buckoid",
-    date: "Dec 2021 - Apr 2022",
-    description:
-      "App Is Currently In Playstore 100+ Downloads. This Project proposes an “Expense Tracking App”. Keep track of your personal expenses and compare them to your monthly income with the budget planner. It has Google Drive Cloud API for Backup of User Room Database. Made with Kotlin in MVVM Architecture & Live Data.",
-    image:
-      "https://camo.githubusercontent.com/fbf405040ae86b5d4a40f24e4ac034982cb8c0e2d850560ba64527997b258be8/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f6c6f67696e2d65613565322e61707073706f742e636f6d2f6f2f4255434b4f49442532302831292e706e673f616c743d6d6564696126746f6b656e3d32653735376235372d323964372d346263612d613562322d653164346538313432373435",
-    tags: ["Kotlin", "MVVM", "Room Database", "Google Drive Cloud API"],
-    category: "android app",
-    github: "https://github.com/rishavchanda/Buckoid-Android-App",
-    webapp: "https://play.google.com/store/apps/details?id=com.rishav.buckoid",
-  },
-  {
-    id: 10,
-    title: "Quiz App",
-    date: "Jun 2023 - Jul 2023",
-    description:
-      "A Quiz App made with React, Node Js. Users can attempt the quiz and view the result after submission.",
-    image:
-      "https://repository-images.githubusercontent.com/404792705/ae07a5f4-fe09-4a1a-a5a0-74e229adca4a",
-    tags: ["React", "Node Js", "Github"],
-    category: "android app",
-    github: "https://github.com/DiptiSanap/python-quiz-project",
-    webapp: "https://diptisanap.github.io/python-quiz-project/",
-  },
-  {
-    id: 4,
-    title: "Whatsapp Clone",
-    date: "Jul 2021",
-    description:
-      "A WhatsApp clone made with React JS, Firebase, and Material UI. It has Phone Authentication, Real-time Database. It has a chat room where users can chat with each other. It has a sidebar where users can see all the chat rooms and can create a new chat room. It has a login page where users can log in with their Google account.",
-    image:
-      "https://firebasestorage.googleapis.com/v0/b/whatsapp-clone-rishav.appspot.com/o/Screenshot%20(151).png?alt=media&token=48391593-1ef0-4a8c-a92a-eb82bdf38e89",
-    tags: ["React Js", "Firebase", "Firestore", "Node JS"],
-    category: "web app",
-    github: "https://github.com/rishavchanda/Whatsapp-Clone-React-Js",
-    webapp: "https://whatsapp-clone-rishav.web.app",
   },
   {
     id: 5,
-    title: "Todo Web App",
-    date: "Jun 2021",
-    description:
-      " A Todo Web App made with React JS, Redux, and Material UI. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date. It has a search bar where users can search for a particular task.",
-    image:
-      "https://camo.githubusercontent.com/a328255ad96f861f57d25096d28018ab2656c689a1456b0d145764009bed2d1a/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f74253230283938292e706e673f616c743d6d6564696126746f6b656e3d33643335646366322d626666322d343730382d393031632d343232383866383332386633",
-    tags: ["React Js", "Local Storage", "AWS Auth", "Node JS"],
-    category: "web app",
-    github: "https://github.com/rishavchanda/Todo-Web-App",
-    webapp: "https://rishav-react-todo.netlify.app/",
-  },
-  {
-    id: 6,
-    title: "Breaking Bad",
-    date: "Jun 2021",
-    description:
-      "A simple react app that shows the characters of the famous TV series Breaking Bad. It uses the Breaking Bad API to fetch the data. It also has a search bar to search for a particular character.",
-    image:
-      "https://camo.githubusercontent.com/cd07010cbeb90cb1b43a5d6162784326aef02210ef7d41a0f9ae043b3e392378/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f7425323028313534292e706e673f616c743d6d6564696126746f6b656e3d65613439383630632d303435362d343333342d616435372d336239346663303333363263",
-    tags: ["React Js", "API", "Axios", "Node JS"],
-    category: "web app",
-    github: "https://github.com/rishavchanda/Breaking-Bad",
-    webapp: "https://breaking-bad-webapp.netlify.app",
-  },
-  {
-    id: 7,
     title: "Weather app",
-    date: "Dec 2020 - Jan 2021",
+    date: "Description:",
     description:
         "The weather app is a user-friendly application that provides accurate weather information for any location worldwide. With a clean and intuitive interface, users can quickly check the current weather conditions, including temperature, humidity, wind speed, and more. Whether planning for a trip, organizing outdoor activities, or simply staying informed about the weather, this app offers a convenient way to access up-to-date weather data.",
     image:
       "https://private-user-images.githubusercontent.com/107847530/255548146-0bab7620-6278-4636-8395-3328d862630b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQyNDIzMTYsIm5iZiI6MTcxNDI0MjAxNiwicGF0aCI6Ii8xMDc4NDc1MzAvMjU1NTQ4MTQ2LTBiYWI3NjIwLTYyNzgtNDYzNi04Mzk1LTMzMjhkODYyNjMwYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQyN1QxODIwMTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xMjY0YzZlZGYxYjRlNjNkYzY2MzU5ODY2YTE2NzE3OGNhZjJkZmRmMmU5YTViODQ0ZjM4MzQ2Njk3YWIxZGVjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.EQ6XUePjJNJOrFFYtLUnDX992fuh6HlJd4DTpQiwVkc",
     tags: ["React Js", "API", "Github", "Google Auth"],
-    category: "android app",
+    category: "web app",
     github: "https://github.com/DiptiSanap/Weather-app-Reactjs-project",
     webapp: "https://diptisanap.github.io/Weather-app-Reactjs-project",
   },
   {
-    id: 8,
+    id: 4,
+    title: "Wine Quality Classification",
+    date: "Description:",
+    description:
+      "Explored the realm of wine quality prediction through machine learning, this project delves into the analysis of various algorithms applied to a comprehensive dataset. After rigorous evaluation of five distinct algorithms including Random Forest, XGBoost, Decision Tree, Logistic Regression, and KNN, Random Forest emerged as the top performer, showcasing an impressive accuracy of 93%. ",
+    image:
+      "https://winery.ph/cdn/shop/articles/WPH_Blog_Hero_Graphics_1_600x.jpg?v=1620291667",
+    tags: [
+      "Python",
+      "Supervised learning",
+      "Classification",
+      "XGBoost",
+      "scikit-learn",
+      "Random Forest",
+    ],
+    category: "machine learning",
+    github: "https://github.com/DiptiSanap/wine-quality-prediction",
+    webapp: "https://github.com/DiptiSanap/wine-quality-prediction",
+  },
+  {
+    id: 3,
     title: "Starbucks Brewing Insights",
-    date: "Jan 2021",
+    date: "Description:",
     description:
         "Analyzed Nutritional Content & Beverage Preparations at Starbucks utilizes Python's Pandas, NumPy, and Seaborn to dissect a comprehensive dataset encompassing various beverages and their nutritional profiles.",
     image:
-        "https://bsmedia.business-standard.com/_media/bs/img/article/2016-12/07/full/1481130851-7484.jpg",
+        "https://i.insider.com/63a3647e58babf00188d636c?width=700",
     tags: ["Python", "Pandas", "Matplotlib", "Seaborn", "Data Analysis"],
     category: "machine learning",
     github: "https://github.com/DiptiSanap/starbucks_visualisation",
     webapp: "https://github.com/DiptiSanap/starbucks_visualisation",
   },
+
+  {
+    id: 2,
+    title: "Image Classification",
+    date: "Description:",
+    description:
+      "Preprocessed and augmented the dataset to improve model accuracy, trained the model. Achievements: Achieved an accuracy of 87% to accurately classify images.",
+    image:
+      "https://miro.medium.com/v2/resize:fit:1358/0*0pLlSYLcdvyH-SxG",
+    tags: ["Python", "Keras", "TensorFlow", "CIFAR10", "Pickle","CNN"],
+    category: "machine learning",
+    github: "https://github.com/DiptiSanap/CIFAR10-image-classification-CNN",
+    webapp: "https://github.com/DiptiSanap/CIFAR10-image-classification-CNN",
+  },
+
 ];
 
 export const TimeLineData = [

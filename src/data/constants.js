@@ -276,7 +276,7 @@ export const projects = [
     description:
     "DermAI Health App is a groundbreaking Streamlit app leveraging the power of AI to swiftly identify various skin diseases with just the upload of an image depicting the affected area. By simply uploading the image and clicking on the 'Proceed to Detection' button, you can swiftly obtain accurate diagnoses. The app not only detects the disease but also furnishes comprehensive information including symptoms, precautions, and available treatments",
     image:
-      "https://play-lh.googleusercontent.com/JTRVFIH-DwdtF3zZWT9j2Wg2hgvyZEBsbJ_JsjFDY2lcLr1gCFGqJeFSh3C-8s5PVA",
+      "https://www.dermengine.com/hs-fs/hubfs/DE%20Blog%20CTA%20Articles/DermEngine%20Evolution%20Tracker%20Doctor.png?width=767&height=682&name=DermEngine%20Evolution%20Tracker%20Doctor.png",
     tags: ["Google API Key", "Python", "Streamlit", "Deep Learning", "Generative Models"],
     category: "generative ai",
     github: "https://github.com/DiptiSanap/Gemini-DermAI-project",
@@ -289,7 +289,7 @@ export const projects = [
     description:
         "The weather app is a user-friendly application that provides accurate weather information for any location worldwide. With a clean and intuitive interface, users can quickly check the current weather conditions, including temperature, humidity, wind speed, and more. Whether planning for a trip, organizing outdoor activities, or simply staying informed about the weather, this app offers a convenient way to access up-to-date weather data.",
     image:
-      "https://private-user-images.githubusercontent.com/107847530/255548146-0bab7620-6278-4636-8395-3328d862630b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQyNDIzMTYsIm5iZiI6MTcxNDI0MjAxNiwicGF0aCI6Ii8xMDc4NDc1MzAvMjU1NTQ4MTQ2LTBiYWI3NjIwLTYyNzgtNDYzNi04Mzk1LTMzMjhkODYyNjMwYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQyN1QxODIwMTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xMjY0YzZlZGYxYjRlNjNkYzY2MzU5ODY2YTE2NzE3OGNhZjJkZmRmMmU5YTViODQ0ZjM4MzQ2Njk3YWIxZGVjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.EQ6XUePjJNJOrFFYtLUnDX992fuh6HlJd4DTpQiwVkc",
+      "https://img.pikbest.com/templates/20211121/bg/0e1b29f5c2423708338dd4e3a17f35eb_117851.png!w700wp",
     tags: ["React Js", "API", "Github", "Google Auth"],
     category: "web app",
     github: "https://github.com/DiptiSanap/Weather-app-Reactjs-project",

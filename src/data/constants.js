@@ -276,7 +276,7 @@ export const projects = [
     description:
     "DermAI Health App is a groundbreaking Streamlit app leveraging the power of AI to swiftly identify various skin diseases with just the upload of an image depicting the affected area. By simply uploading the image and clicking on the 'Proceed to Detection' button, you can swiftly obtain accurate diagnoses. The app not only detects the disease but also furnishes comprehensive information including symptoms, precautions, and available treatments",
     image:
-      "https://www.dermengine.com/hs-fs/hubfs/DE%20Blog%20CTA%20Articles/DermEngine%20Evolution%20Tracker%20Doctor.png?width=767&height=682&name=DermEngine%20Evolution%20Tracker%20Doctor.png",
+      "https://play-lh.googleusercontent.com/JTRVFIH-DwdtF3zZWT9j2Wg2hgvyZEBsbJ_JsjFDY2lcLr1gCFGqJeFSh3C-8s5PVA",
     tags: ["Google API Key", "Python", "Streamlit", "Deep Learning", "Generative Models"],
     category: "generative ai",
     github: "https://github.com/DiptiSanap/Gemini-DermAI-project",
